@@ -1,0 +1,23 @@
+{
+  "name": "electron-browser",
+  "version": "0.0.1",
+  "description": "an browser based on electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opennext/electron-browser.git"
+  },
+  "keywords": [
+    "browser",
+    "electron"
+  ],
+  "author": "opennext",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opennext/electron-browser/issues"
+  },
+  "homepage": "https://github.com/opennext/electron-browser#readme"
+}
