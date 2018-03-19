@@ -1,0 +1,10 @@
+.DS_STORE
+node_modules
+*~
+build/
+coverage/
+*.log*
+chrome-user-data
+*.sublime-project
+.idea
+.vscode
